@@ -3,7 +3,7 @@ package appcarros;
 public class AppCarros {
 
     public static void main(String[] args) {
-
+        System.out.println("Hello, world!");
         Carros carro1 = new Carros("ka", "ford", 2005, "azul");
         Carros carro2 = new Carros("gol", "volkswagem", 2008, "vermelho");
         Carros macedoGuei = new Carros("Charrete","Cavalo",1648,"Amarelo");
